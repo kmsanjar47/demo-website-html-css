@@ -1,0 +1,13 @@
+body{
+    background-image:url(./images/top-banner.png) ;
+    margin: 0px;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.top-section .top-section-left-div{
+    width: 50px;
+}
