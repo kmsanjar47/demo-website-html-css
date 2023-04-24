@@ -9,11 +9,11 @@ h1 {
   font-size: 50px;
 }
 .top-section {
-  width: 100%;
   padding: 1%;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .top-section-portfolio-text {
@@ -37,6 +37,7 @@ h1 {
 }
 .top-section-left-div-button:hover {
   background-color: rgb(255, 136, 0);
+  transition: 0.6ms;
 }
 .top-section-right-div img {
   width: 100%;
